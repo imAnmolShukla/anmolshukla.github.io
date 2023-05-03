@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../c,c++"
+		},
+		{
+			"path": "../c cpp prog"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"N.C": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
